@@ -1,5 +1,5 @@
 ---
-name: Wordpress4+MariaDB
+name: Wordpress4_with_MariaDB
 description: Wordpress 4 and MariaDB
 keywords: ''
 type: Wordpress
