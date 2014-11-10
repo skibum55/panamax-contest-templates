@@ -1,0 +1,13 @@
+---
+name: Wordpress4+MariaDB
+description: Wordpress 4 and MariaDB
+keywords: ''
+type: Wordpress
+documentation: ''
+images:
+- name: wordpress_latest
+  source: wordpress:latest
+  type: Default
+- name: dockerfile_mariadb
+  source: dockerfile/mariadb:latest
+  type: Default
